@@ -10,12 +10,14 @@
 ##### You can see the stylized result inline
 ![XcodeScreenShot.png](XcodeScreenShot.png)
 
-###### There are 9 styles in the example model (0 to 8)
+###### There are 10 styles in the example model (0 to 9)
 <img src="ConvertedOutput/export_0.jpg" alt="Style 0" width="100" height="100"> <img src="ConvertedOutput/export_1.jpg" alt="Style 1" width="100" height="100"> <img src="ConvertedOutput/export_2.jpg" alt="Style 2" width="100" height="100">
 
 <img src="ConvertedOutput/export_3.jpg" alt="Style 3" width="100" height="100"> <img src="ConvertedOutput/export_4.jpg" alt="Style 4" width="100" height="100"> <img src="ConvertedOutput/export_5.jpg" alt="Style 5" width="100" height="100">
 
 <img src="ConvertedOutput/export_6.jpg" alt="Style 6" width="100" height="100"> <img src="ConvertedOutput/export_7.jpg" alt="Style 7" width="100" height="100"> <img src="ConvertedOutput/export_8.jpg" alt="Style 8" width="100" height="100">
+
+<img src="ConvertedOutput/export_9.jpg" alt="Style 8" width="100" height="100">
 
 
 

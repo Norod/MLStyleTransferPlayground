@@ -14,7 +14,7 @@ import CoreML
 //                                                      Playground parameters
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-let numStyles  = 9                                              // Number of styles available in the model
+let numStyles  = 10                                              // Number of styles available in the model
 let styleIdx = 0                                                // 0 <= styleIdx < numStyles // That is how you choose the style you want to apply
 let modelInputSize = CGSize(width:768, height:768)              // You can try increasing this for better resolution but slower processing time
 let inputImageFullPath = String("/Users/dadler/Projects/GitHub/MLStyleTransferPlayground/IMG_5176.jpg") // Full path of the image you wish to stylize
